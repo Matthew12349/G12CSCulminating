@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "outDir": "dist", //optionally use “” to not use an output folder
+      "sourceMap": true,
+      "strict": true,
+      "strictPropertyInitialization": false,
+      "module": "ESNext",
+      "moduleResolution": "node"
+    },
+    "include": ["src/**/*"],
+}

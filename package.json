@@ -1,0 +1,32 @@
+{
+  "name": "g12csculminating",
+  "version": "1.0.0",
+  "description": "messanger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaranPj/G12CSCulminating.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaranPj/G12CSCulminating/issues"
+  },
+  "homepage": "https://github.com/KaranPj/G12CSCulminating#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "live-server": "^1.2.2",
+    "socket.io": "^4.8.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.0.1",
+    "@types/socket.io": "^3.0.1",
+    "typescript": "^5.8.3"
+  }
+}
