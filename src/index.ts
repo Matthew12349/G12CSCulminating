@@ -99,6 +99,15 @@ main();
 
 
 //anything
+
+//
 // today is june 12, 2025
 // Hello My name is karan
+
+//helo new
+<<<<<<< HEAD
 //sdfasdf
+=======
+
+// hi my name is matthew
+>>>>>>> 5f68d03e4e5ffafc6c6de8d1310b2219cad44c56
